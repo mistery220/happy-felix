@@ -51,14 +51,13 @@ Since i integrated some of my project into my website i'll i mention most of tec
 
 ### How To Use
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [felixmartel.info](https://felixmartel.info). Thanks!
 
 ## 🛠 Installation & Set Up
 
 1. Clone the repo CLI
 
    ```sh
-   git clone https://github.com/0xNevo/happy-felix.git
+   git clone https://github.com/mistery220/happy-felix.git
    ```
 
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
@@ -206,11 +205,3 @@ SOFTWARE.
 
 
 ---
-
-## Author Info
-
-- X - [@NevoSayNevo](https://x.com/NevoSayNevo)
-- Website - [Felix Martel](https://felixmartel.info)
-
-[Back To The Top](#description) :
-
